@@ -1,2 +1,3 @@
-# TSRL-AAAI18
-Codes for "Task-Specific Representation Learning for Web-scale Entity Disambiguation" accepted in AAAI,2018 will be available here.
+dim_red.py is the script for dimension reduction using sign-hash.
+multitask_full.py is the script for traning the tasks simultaneously and testing with each task which uses base model written in theano. 
+
